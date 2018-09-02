@@ -5,6 +5,6 @@ I've noted the changes I made to the code directly on the source using comments 
 <br>
 <img src="http://buzrocks.com/images/comment-sample.png" alt="sample image of comments"><br>
 <br>
-The project is also hosted at my website <a href="http://www.buzrocks.com/project1" target="_blank"> here </a> (opens in new tab)<br>
+The project is also hosted at my website <a href="http://www.buzrocks.com/project1" target="blank"> here </a> (opens in new tab)<br>
 <br>
 Thank you!
